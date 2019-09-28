@@ -1,0 +1,172 @@
+.header {
+    width: 100%;
+
+}
+
+.logo {
+    float: left;
+}
+
+.menu ul {
+    list-style: none;
+    float: right;
+
+}
+
+.menu ul li {
+    float: left;
+    margin-left: 60px;
+    margin-right: 5px;
+    font-size: 25px;
+    text-transform: uppercase;
+
+}
+
+
+
+/*COVER AREA*/
+.cover {
+    margin-bottom: 30px;
+}
+
+.pic1 {
+    width: 100%;
+    height: 60vh;
+}
+
+
+/*CONTENT AREA*/
+
+
+.content {
+    width: 80%;
+    margin: 10px auto;
+    font-family: serif;
+    padding-bottom: 30px;
+
+}
+
+.content h1 {
+     font-family: sans-serif;
+    font-size: 35px;
+}
+
+.content h6 {
+    font-size: 16px;
+}
+
+.content p {
+    font-size: 12px;
+}
+
+/*PIC AREA*/
+.pic-area {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 80%;
+    margin: 10px auto;
+    overflow: hidden;
+    background-color: ;
+    font-family:serif ;
+
+}
+
+.pic-area p {
+    font-size: 12px;
+}
+
+.pic-area h2 {
+    font-size: 35px;
+    font-family: roboto;
+}
+
+.pic-area h6 {
+    font-size: 16px;
+}
+
+.area-left,
+.area-right {
+    width: 500px;
+    height: 500px;
+}
+
+.area-left {
+    float: left;
+    margin-right: 66px;
+}
+
+.area-right {
+    float: left;
+}
+
+.pic2 {
+    height: 300px;
+    width: 100%;
+}
+
+
+/*SECTION AREA*/
+.section {
+    background-color: lightgray;
+    text-align: center;
+    padding: 30px 0 30px;
+    font-family: fantasy;
+}
+
+.form-con {
+    margin-top: 30px;
+    background-color: lightgray;
+    width: 380px;
+    border:none;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+i2{
+    margin-left: -17px;
+}  
+
+.form-con::placeholder{
+    border: none;
+}
+
+/*BUTTON AREA*/
+.button {
+    padding: 40px 0 40px;
+    text-align: center;
+}
+
+.btn {
+    background-color: white;
+    width: 140px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+/*FOOTER AREA*/
+.footer {
+    width: 100%;
+    background-color: lightgray;
+    overflow: hidden;
+    font-style: Roboto, sans-serif;
+}
+
+.fot-left,
+.fot-right {
+    margin: 30px 70px 30px 70px;
+}
+
+.fot-left {
+    float: left;
+}
+
+.fot-right ul {
+    list-style: none;
+    float: right;
+}
+
+.fot-right ul li {
+    float: left;
+    margin-left: 40px;
+    margin-right: 5px;
+    font-size: 20px;
+}
